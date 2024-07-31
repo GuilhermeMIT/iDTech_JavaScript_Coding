@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+For this activity i created a fortune teller that predicts your fortune based on the number value that you imput into the computer. depending on the number you either get a bad fortune, a medium fortune, or a good fortune.
