@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+For this project we needed to write code for part of a PacMan game so that if he hit a wall he would turn around and go the other way. we started off with some sample code and worked our way from there to make this mechanic possible.

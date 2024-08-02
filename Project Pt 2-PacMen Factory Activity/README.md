@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In this project we did a similar thing to the first PacMan project but this time added a y-axis so the PacMen can hit the walls the cieling or the floors and if they did they would bouce off due to the code that we wrote.
